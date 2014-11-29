@@ -4,7 +4,18 @@ header {
 	padding: 100px 0;
 }
 header h1, header h2, header h3, header h4 {
+  font-family: "Proxima Nova", "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 200;
+  font-style: normal;
 	color: #ffffff;
+}
+footer {
+  background-color: #007ba0;
+  padding: 10px 0;
+  color: #ffffff;
+}
+footer h4 {
+  color: #ffffff;
 }
 .testimonial-wrap h2 {
   padding-top: 40px;
@@ -12,7 +23,7 @@ header h1, header h2, header h3, header h4 {
   color: #333;
 }
 
-.testimonial-wrap .centered-text {
+.centered-text {
   text-align: center;
 }
 
